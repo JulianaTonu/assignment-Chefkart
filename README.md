@@ -1,4 +1,51 @@
-# Getting Started with Create React App
+## Live link: https://curious-hamster-26b3cd.netlify.app
+### Task accomplished : 
+
+1. Responsive
+2. Status color rendering
+3. Sorting (Ascending)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
